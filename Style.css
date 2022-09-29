@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    background-color: grey;
+    color: black;
+    display: flex;
+    justify-content: center;
+}
+
+.insertMsg {
+    background-color: darksalmon;
+    color: azure;
+    display: flex;
+    justify-content:flex-start;
+}
+
+#wordInput {
+    width: 500px;
+    height: 60px;
+    background-color: black;
+    color: aliceblue;
+}
+
+#wordLabel {
+    margin-left: 41em;
+}
+
+#submitBtn {
+    width: 200px;
+    height: 40px;
+    background-color: darkred;
+    color: whitesmoke;
+
+}
